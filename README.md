@@ -1,7 +1,6 @@
 ### Hi there 👋
 this is Eswarchand1
-git commit --allow-empty -m "Trigger rebuild"
-git push
+
 
 <!--
 **Eswarchand1/Eswarchand1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
